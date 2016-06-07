@@ -1,0 +1,6 @@
+d:\userdata\rlarave\documents\visual studio 2015\Projects\LargeProject\LargeProject\bin\Debug\LargeProject.exe.config
+d:\userdata\rlarave\documents\visual studio 2015\Projects\LargeProject\LargeProject\bin\Debug\LargeProject.exe
+d:\userdata\rlarave\documents\visual studio 2015\Projects\LargeProject\LargeProject\bin\Debug\LargeProject.pdb
+d:\userdata\rlarave\documents\visual studio 2015\Projects\LargeProject\LargeProject\obj\Debug\LargeProject.csprojResolveAssemblyReference.cache
+d:\userdata\rlarave\documents\visual studio 2015\Projects\LargeProject\LargeProject\obj\Debug\LargeProject.exe
+d:\userdata\rlarave\documents\visual studio 2015\Projects\LargeProject\LargeProject\obj\Debug\LargeProject.pdb
